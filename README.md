@@ -1,7 +1,7 @@
 
 <div align="center" width="100%" height="100%" >
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MohdShibin&data=followers,repositories,stars&theme=darkmode)](https://github.com/MohdShibin) 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mohammedshibinv&data=followers,repositories,stars&theme=darkmode)](https://github.com/mohammedshibinv) 
 
 <h4>Software Developer from India | Computer Science Graduate<h4><br>
 
