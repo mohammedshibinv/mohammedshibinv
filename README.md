@@ -10,7 +10,9 @@
 <hr>
 </div>
 
-<img align="left" src="assets/profile.png" alt="Profie Pic" width="320" />
+
+<div>
+<img align="left" src="assets/profile-removedbg.png" alt="Profie Pic" width="320" />
 
 ```javascript
 
@@ -34,6 +36,8 @@ Kaggle   : mohammedshibinv
                                   ◥█████◤
 Lets Connect  =>                  ══╩══╩══
 ```
+</div>
+
 
 
 
