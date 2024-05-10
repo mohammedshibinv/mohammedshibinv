@@ -12,7 +12,7 @@
 
 
 <div>
-<img align="left" src="assets/profile-removedbg.png" alt="Profie Pic" width="320" />
+<img align="left" src="assets/profile-removedbg.png" alt="Profie Pic" width="310" />
 
 ```javascript
 
