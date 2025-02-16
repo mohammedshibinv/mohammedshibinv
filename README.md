@@ -25,9 +25,9 @@ Framework: Django, Laravel, React, Flutter
 
 Handles:
 -------
-Website  : mohammed-shibin.web.app
-Linkedn  : mohammedshibinv
-Kaggle   : mohammedshibinv
+Portfolio : mohammedshibinv.web.app
+Linkedn   : mohammedshibinv
+Kaggle    : mohammedshibinv
 
                                  ▬▬▬.◙.▬▬▬
                                     ▂▄▄▓▄▄▂
